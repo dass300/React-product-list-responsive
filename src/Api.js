@@ -4,6 +4,9 @@ import { Card } from 'react-bootstrap'
 const Api = () => {
 
     const[state,setState] = useState([])
+    // const[state,setState] = useState([])
+    // const[state,setState] = useState([])
+    // const[state,setState] = useState([])
 
     useEffect(() => {
         fetch('https://jsonplaceholder.typicode.com/posts')
