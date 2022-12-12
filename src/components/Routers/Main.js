@@ -5,6 +5,20 @@ import Contact from "./Pages/Contact";
 import Home from "./Pages/Home";
 import NoPage from "./Pages/NoPage";
 
+// import React from "react";
+// import { Link, Route, Routes } from "react-router-dom";
+// import About from "./Pages/About";
+// import Contact from "./Pages/Contact";
+// import Home from "./Pages/Home";
+// import NoPage from "./Pages/NoPage";
+
+// import React from "react";
+// import { Link, Route, Routes } from "react-router-dom";
+// import About from "./Pages/About";
+// import Contact from "./Pages/Contact";
+// import Home from "./Pages/Home";
+// import NoPage from "./Pages/NoPage";
+
 const Main = () => {
 
   return (

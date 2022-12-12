@@ -5,6 +5,7 @@ const Home = () => {
     <div>
         <h1 className="bg-primary">Home page</h1>
     </div>
+    
   )
 }
 

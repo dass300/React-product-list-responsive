@@ -5,6 +5,7 @@ const NoPage = () => {
     <div>
         <h1>404....No page found</h1>
     </div>
+    
   )
 }
 

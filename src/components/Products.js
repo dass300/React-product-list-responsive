@@ -4,6 +4,18 @@ import Button from "react-bootstrap/Button";
 import Card from "react-bootstrap/Card";
 import { productDatas } from "./data.js";
 
+import Button from "react-bootstrap/Button";
+// import Card from "react-bootstrap/Card";
+// import { productDatas } from "./data.js";
+
+// import Button from "react-bootstrap/Button";
+// import Card from "react-bootstrap/Card";
+// import { productDatas } from "./data.js";
+
+// import Button from "react-bootstrap/Button";
+// import Card from "react-bootstrap/Card";
+// import { productDatas } from "./data.js";
+
 const Products = () => {
   const [items, setItems] = useState(productDatas);
 
